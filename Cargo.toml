@@ -1,0 +1,9 @@
+[package]
+name = "rust_codes_fca"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[workspace]
+members = ["./src/aula04","./src/aula05","./src/aula06"]
