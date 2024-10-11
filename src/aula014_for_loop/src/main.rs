@@ -14,5 +14,11 @@ fn main() {
         println!("{}", c);
     }
 
+    for c in 'a'..='z' {
+        //um valor na memória pode ser igual mas representar coisas diferentes de acordo com seu tipo, para saber mais observe a tabela ASCII
+        //observe que a única coisa que mudamos aqui é o "as u8" e os valores são representados por números agora
+        println!("{}", c as u8);
+    }
+
     println!("success")
 }
