@@ -1,0 +1,6 @@
+[package]
+name = "aula009_const_max"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
