@@ -1,0 +1,6 @@
+[package]
+name = "aula013_float_precision"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
