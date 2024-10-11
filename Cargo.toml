@@ -6,4 +6,4 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = ["./src/aula004_custom_compiler_rules","./src/aula005_desestruturing_tuples","./src/aula006_double_doth","./src/aula007_convert_type","./src/aula008_comparing_types","./src/aula009_const_max","./src/aula010_checked_add"]
+members = ["./src/aula004_custom_compiler_rules","./src/aula005_desestruturing_tuples","./src/aula006_double_doth","./src/aula007_convert_type","./src/aula008_comparing_types","./src/aula009_const_max","./src/aula010_checked_add","./src/aula011_number_systems"]
